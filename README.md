@@ -1,3 +1,1 @@
-hello 
-
-exit
+This is a python app.
