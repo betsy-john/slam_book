@@ -1,9 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import Post from './Post/Post';
+import Post from '../Post/Post';
 
-import * as serviceWorker from './serviceWorker';
+import * as serviceWorker from '../serviceWorker';
 
 ReactDOM.render(<Post />, document.getElementById('root'));
 
