@@ -1,8 +1,7 @@
 import React from 'react';
-import css from'./Post.css';
+import './Post.css';
 
 function Post() {
-  console.log('css',css);
   return (
     <div className="Post">
       <header className="Post-header">
