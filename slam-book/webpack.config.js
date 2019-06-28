@@ -10,6 +10,7 @@ module.exports = {
     filename: 'index_bundle.js'
   },
   devServer: {
+    historyApiFallback: true,
     inline: true,
     port: 8080
   },
