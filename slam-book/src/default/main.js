@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Post from '../Post/Post';
+import Post from '../components/Post/Post';
 
 import * as serviceWorker from '../serviceWorker';
 
