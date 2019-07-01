@@ -27,6 +27,10 @@ function SignIn() {
         <Link to='/dashboard'>
           <button className="SignIn-button">Sign In</button>
         </Link>
+        <br />
+        <Link to='/sign-up'>
+          <span className="SignIn-title">Or Register ?</span>
+        </Link>
       </header>
     </div>
   );
