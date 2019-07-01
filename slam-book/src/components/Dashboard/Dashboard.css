@@ -1,7 +1,7 @@
-.SignIn {
+.Dashboard {
   text-align: center;
 }
-.SignIn-header {
+.Dashboard-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -11,13 +11,13 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-.SignIn-title {
+.Dashboard-title {
   font-size: 24px;
   font-family: adelle-italic;
   text-align: center;
   color: white;
 }
-.SignIn-input-email {
+.Dashboard-input-email {
   background-color: white;
   color: #282c34;
   text-align: center;
@@ -26,7 +26,7 @@
   font-size: 24px;
   margin: 12px 45px;
 }
-.SignIn-input-password {
+.Dashboard-input-password {
   background-color: white;
   color: #282c34;
   text-align: center;
@@ -34,7 +34,7 @@
   border-radius: 1em;
   font-size: 24px;
 }
-.SignIn-button {
+.Dashboard-button {
   background-color: #4CAF50;
   border: none;
   border-radius: 1.4em;
