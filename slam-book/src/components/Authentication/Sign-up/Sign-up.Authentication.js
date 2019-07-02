@@ -1,6 +1,6 @@
 import React from 'react';
 import './Sign-up.Authentication.css';
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
 
 function SignUp() {
   return (
@@ -46,6 +46,6 @@ function SignUp() {
       </header>
     </div>
   );
-}
+};
 
 export default SignUp;

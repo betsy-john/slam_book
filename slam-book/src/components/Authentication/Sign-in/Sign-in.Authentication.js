@@ -1,6 +1,6 @@
 import React from 'react';
 import './Sign-in.Authentication.css';
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
 
 function SignIn() {
   return (
@@ -34,6 +34,6 @@ function SignIn() {
       </header>
     </div>
   );
-}
+};
 
 export default SignIn;
